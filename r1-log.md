@@ -37,3 +37,9 @@ Thoughts: Been a long week, forgot to add this yesterday.
 Today's Progress: Another lecture today. Learned about planning - UPER and Polya's Problem Solving Techniques. Also worked on a group coding challenge using the newly learnt problem solving techniques.
 
 Thoughts: Code challenges are definitely something I need to work on.
+
+### R1D7 Day 7: February 14, 2020. Friday
+
+Today's Progress: Practiced Python on an iOS app called Py. Also went over Python on Codecademy. Researched Methods and Functions of Lists and did more of my LS homework.
+
+Thoughts: Python is starting to make more sense outside of the very basics.
