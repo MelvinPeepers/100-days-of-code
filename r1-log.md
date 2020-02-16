@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Melvin
 
-The log of my #100DaysOfCode challenge. Started on [February 8, 2020].
+The log of my #100DaysOfCode challenge. Started on February 8, 2020.
 
 ## Log
 
-### R1D1
+### R1D1 Day 1: February 8, 2020. Saturday
 
 Started learning Python from Lambda School's Training Kit's 'Intro to Python' and from Colt Steele's 'The Modern Python 3 Bootcamp'. I'm late at committing this to Github, although I tweeted about it earlier.
 
@@ -43,3 +43,9 @@ Thoughts: Code challenges are definitely something I need to work on.
 Today's Progress: Practiced Python on an iOS app called Py. Also went over Python on Codecademy. Researched Methods and Functions of Lists and did more of my LS homework.
 
 Thoughts: Python is starting to make more sense outside of the very basics.
+
+### R1D7 Day 8: February 15, 2020. Saturday
+
+Today's Progress: 5th Day at Lambda School. Worked on my course project both during class time and after class to get it done. Lots of concepts and sytax in Python to understand and get use to but it's coming along.
+
+Thoughts: Lots of moments where I'm stuck and think, I don't get it, I can't do this. Then I fall back to UPER (Understand/Plan/Execute/Reflex) and I eventually "get it".
