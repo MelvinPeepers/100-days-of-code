@@ -50,9 +50,15 @@ Today's Progress: 5th Day at Lambda School. Worked on my course project both dur
 
 Thoughts: Lots of moments where I'm stuck and think, I don't get it, I can't do this. Then I fall back to UPER (Understand/Plan/Execute/Reflex) and I eventually "get it".
 
-### R1D89 Day 9: February 16, 2020. Sunday
+### R1D9 Day 9: February 16, 2020. Sunday
 
 Today's Progress: Still working on my Python coursework. Learned a lot about calendar function, Class, Super and object.**str** method.
 Also started reading 'Computer Science Distilled' by Wladston Ferreira Filho
 
 Thoughts: Learning lots, but so much more to go.
+
+### R1D10 Day 10: February 17, 2020. Monday
+
+Today's Progress: Doing Colt Steele's Modern Python 3 course. Great course. So far it's going over the same material as class, which is good as I still need to get comfortable with the Python way. Got my 'Automate The Boring Stuff with Python' book today. Only read the introduction so far.
+
+Thoughts: Trying to immerse myself in Python and learn all the fundementals.
