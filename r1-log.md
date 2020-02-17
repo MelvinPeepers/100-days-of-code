@@ -44,8 +44,15 @@ Today's Progress: Practiced Python on an iOS app called Py. Also went over Pytho
 
 Thoughts: Python is starting to make more sense outside of the very basics.
 
-### R1D7 Day 8: February 15, 2020. Saturday
+### R1D8 Day 8: February 15, 2020. Saturday
 
 Today's Progress: 5th Day at Lambda School. Worked on my course project both during class time and after class to get it done. Lots of concepts and sytax in Python to understand and get use to but it's coming along.
 
 Thoughts: Lots of moments where I'm stuck and think, I don't get it, I can't do this. Then I fall back to UPER (Understand/Plan/Execute/Reflex) and I eventually "get it".
+
+### R1D89 Day 9: February 16, 2020. Sunday
+
+Today's Progress: Still working on my Python coursework. Learned a lot about calendar function, Class, Super and object.**str** method.
+Also started reading 'Computer Science Distilled' by Wladston Ferreira Filho
+
+Thoughts: Learning lots, but so much more to go.
