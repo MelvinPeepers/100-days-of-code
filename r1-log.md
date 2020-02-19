@@ -62,3 +62,9 @@ Thoughts: Learning lots, but so much more to go.
 Today's Progress: Doing Colt Steele's Modern Python 3 course. Great course. So far it's going over the same material as class, which is good as I still need to get comfortable with the Python way. Got my 'Automate The Boring Stuff with Python' book today. Only read the introduction so far.
 
 Thoughts: Trying to immerse myself in Python and learn all the fundementals.
+
+### R1D11 Day 11: February 18, 2020. Tuesday
+
+Today's Progress: Reviewed another Lambda School cohort's lecture video. It helped me understand a number of concepts I didn't catch the first time around. Also helped with my 'past' project homework, as I was able to see where my code could have been more efficient.
+
+Thoughts: Days are starting to blur together. Think I'll try to study a little less tomorrow. Since last week I've been putting in at minimum 4 hours a day (on top of work/family, etc.).
