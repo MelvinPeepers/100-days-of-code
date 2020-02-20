@@ -68,3 +68,7 @@ Thoughts: Trying to immerse myself in Python and learn all the fundementals.
 Today's Progress: Reviewed another Lambda School cohort's lecture video. It helped me understand a number of concepts I didn't catch the first time around. Also helped with my 'past' project homework, as I was able to see where my code could have been more efficient.
 
 Thoughts: Days are starting to blur together. Think I'll try to study a little less tomorrow. Since last week I've been putting in at minimum 4 hours a day (on top of work/family, etc.).
+
+### R1D12 Day 12: February 19, 2020. Wednesday
+
+Today's Progress: Today was a lecture on Object Oriented Programming. Also did a lot of Python today and making flash cards of Python fundamentals.
