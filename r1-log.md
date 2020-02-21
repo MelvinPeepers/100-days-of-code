@@ -78,3 +78,9 @@ Today's Progress: Today was a lecture on Object Oriented Programming. Also did a
 Today's Progress: Another lecture review today, Classes and OOP. Also worked on my Intro to Python II project. Completed Day 1 MVP. Need to finish Day 2 to be ready for the Sprint Challenge.
 
 Thoughts: Stressful day. I'm slowly learning Python, but doesn't feel like I'm 'getting it' fast enough.
+
+### R1D14 Day 14: February 21, 2020. Friday
+
+Today's Progress: Reviewing for my Sprint Challenge, I went over my past projects for Lambda School for this Sprint (the last 2 weeks), found a couple mistakes, but I'm proud of myself for having found them and being able to fix them. It kind of surprised me as sometimes I feel like I'm not making any progress. But it's all about the inches. I was able to fix the mistakes as well as progress on my Text Adventure Game project, by using Classes and Inheritence.
+
+Thoughts: I was really stressed the last couple days, but today, I was thinking about what I've been learning, and really thought ok what's my biggest issue, I feel like I'm able to do single problems ok, but it's bringing everything together that I have issues with. Well I started thiking more about what my Lambda School instructors say about breaking problems down, understanding what the issue (or problem) is, and then coming up with a plan. And that's what I did and was able to make progress on my 'game'.
