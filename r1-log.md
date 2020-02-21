@@ -72,3 +72,9 @@ Thoughts: Days are starting to blur together. Think I'll try to study a little l
 ### R1D12 Day 12: February 19, 2020. Wednesday
 
 Today's Progress: Today was a lecture on Object Oriented Programming. Also did a lot of Python today and making flash cards of Python fundamentals.
+
+### R1D13 Day 13: February 20, 2020. Thursday
+
+Today's Progress: Another lecture review today, Classes and OOP. Also worked on my Intro to Python II project. Completed Day 1 MVP. Need to finish Day 2 to be ready for the Sprint Challenge.
+
+Thoughts: Stressful day. I'm slowly learning Python, but doesn't feel like I'm 'getting it' fast enough.
