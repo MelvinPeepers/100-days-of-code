@@ -84,3 +84,15 @@ Thoughts: Stressful day. I'm slowly learning Python, but doesn't feel like I'm '
 Today's Progress: Reviewing for my Sprint Challenge, I went over my past projects for Lambda School for this Sprint (the last 2 weeks), found a couple mistakes, but I'm proud of myself for having found them and being able to fix them. It kind of surprised me as sometimes I feel like I'm not making any progress. But it's all about the inches. I was able to fix the mistakes as well as progress on my Text Adventure Game project, by using Classes and Inheritence.
 
 Thoughts: I was really stressed the last couple days, but today, I was thinking about what I've been learning, and really thought ok what's my biggest issue, I feel like I'm able to do single problems ok, but it's bringing everything together that I have issues with. Well I started thiking more about what my Lambda School instructors say about breaking problems down, understanding what the issue (or problem) is, and then coming up with a plan. And that's what I did and was able to make progress on my 'game'.
+
+### R1D15 Day 15: February 22, 2020. Saturday
+
+Today's Progress: Had my Sprint Challenge today, don't feel I did very well. Wasn't able to get the last part of it to work. It involved opening a CSV file and getting information to add to another file. The List Comprehensions I think I did pretty good on, the the first part was inheritiance which I think I did ok on. Just the last part has me stressed. The Sprint Challenge is timed, you have 3 hours to do it, and boy does that time fly when you're problem solving. I gave it my best shot in the time allotted so I feel pretty good about that.
+
+Thoughts: Still attacking Python from all angles. Besides the 3 hours of coding, I did some Python exercies on the iOS app Py, it's all fundamentals, but I need to make those feel second nature.
+
+### R1D16 Day 16: February 23, 2020. Sunday
+
+Today's Progress: Cut back some today. Did some more Python exercises on Py, and going through the book 'Automate the Boring Stuff with Python' by Al Sweigart. Just went through the introduction. Also did more Codecademy, again more fundamentals.
+
+Thoughts: I'm anxious to find out the results of my Sprint Challenge, had a hard time sleeping last night. Tomorrow is a new week and have to be ready to continue on.
